@@ -5,7 +5,7 @@ This is a simple React.js project that allows us to search for youtube videos th
 To run this project, you need to clone and than run:
 * npm install
 
-to install the dependencies. And than you need to run
+to install the dependencies. And than you need to run:
 * npm start 
 
 to start the application.
